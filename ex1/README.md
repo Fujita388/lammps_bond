@@ -6,5 +6,4 @@ A原子:B原子=10:1
 
 密度0.8、温度0.7で100000ステップ計算
 
-
-
+<img width="618" alt="スクリーンショット 2021-09-28 4 04 41" src="https://user-images.githubusercontent.com/63585652/134977294-a60a452f-910b-4229-b505-2fda77db402f.png">
