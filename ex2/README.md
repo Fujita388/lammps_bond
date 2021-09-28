@@ -1,12 +1,18 @@
-体積2倍にして気液相分離状態をさがす
+# 気液相分離状態の密度決定
 
-密度のx方向依存性を調べる
-	初期設定を密度0.8、温度0.6にする
+## 密度のx方向依存性を調べる
 
-	ρ = V_g/V * ρ_g + V_l/V * ρ_l
-	より、
-	1/2 * 0.8 = 1/2 * ρ_g + 1/2 * ρ_l
+初期設定を密度0.8、温度0.6にすると、
 
-	だいたい 
-	ρ_g = 0.7, ρ_l = 0.1
-	くらい
+<img src="https://latex.codecogs.com/png.latex?\rho&space;=&space;\frac{V_g}{V}&space;\times&space;\rho_g&space;&plus;&space;\frac{V_l}{V}&space;\times&space;\rho_l"/>
+
+より、
+
+<img src="https://latex.codecogs.com/png.latex?\frac{1}{2}&space;\times&space;0.8&space;=&space;\frac{1}{2}&space;\times&space;\rho_g&space;&plus;&space;\frac{1}{2}&space;\times&space;\rho_l">
+
+グラフから
+
+<img src="https://latex.codecogs.com/png.latex?\bg_white&space;\rho_g&space;=&space;0.7,&space;\rho_l&space;=&space;0.1">
+
+くらい
+	
